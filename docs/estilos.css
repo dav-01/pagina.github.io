@@ -1,0 +1,18 @@
+body{
+    margin: 0px;
+}
+
+.titulo{
+    background-color: #000000;
+    margin: 0px;
+    padding: 0px;
+    height: 60px;
+    width: 100%;
+}
+
+.contenedor{
+    background-color: red;
+    height: 600px;
+    width: 1300px;
+    align-content: center
+}
